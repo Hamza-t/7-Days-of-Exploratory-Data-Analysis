@@ -26,4 +26,6 @@ This repository contains 7 notebooks about exploratory data analysis.
 
 * Data : https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
 
+### Notebook 2 :  Ford Stock 
 
+* Data : https://www.kaggle.com/varpit94/ford-stock-data
