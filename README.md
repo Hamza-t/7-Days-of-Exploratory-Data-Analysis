@@ -29,3 +29,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 ### Notebook 2 :  Ford Stock 
 
 * Data : https://www.kaggle.com/varpit94/ford-stock-data
+
+### Notebook 3 :  FIFA 19 complete player
+
+* Data : https://www.kaggle.com/karangadiya/fifa19
