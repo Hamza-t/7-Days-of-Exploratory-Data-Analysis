@@ -33,3 +33,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 ### Notebook 3 :  FIFA 19 complete player
 
 * Data : https://www.kaggle.com/karangadiya/fifa19
+
+### Notebook 4 :  Supermarket sales
+
+* Data : https://www.kaggle.com/aungpyaeap/supermarket-sales
