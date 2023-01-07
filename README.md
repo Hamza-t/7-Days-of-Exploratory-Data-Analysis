@@ -41,3 +41,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 ### Notebook 5 :  Daily Climate Time series
 
 * Data : https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data
+
+### Notebook 6 :  World Happiness Report
+
+* Data : https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
