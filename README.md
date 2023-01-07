@@ -45,3 +45,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 ### Notebook 6 :  World Happiness Report
 
 * Data : https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
+
+### Notebook 7 :  Shoes Reviews
+
+* Data : https://www.kaggle.com/daishinkan002/men-women-shoes-reviews
