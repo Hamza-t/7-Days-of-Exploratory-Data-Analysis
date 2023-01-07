@@ -37,3 +37,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 ### Notebook 4 :  Supermarket sales
 
 * Data : https://www.kaggle.com/aungpyaeap/supermarket-sales
+
+### Notebook 5 :  Daily Climate Time series
+
+* Data : https://www.kaggle.com/sumanthvrao/daily-climate-time-series-data
