@@ -28,7 +28,7 @@ This repository contains 7 notebooks about exploratory data analysis.
 
 ### Project 2 : Crypto Analysis
 
-* Data : 
+* Data : https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
  
 ### Notebook 1 :  2021 Olympics in Tokyo
 
