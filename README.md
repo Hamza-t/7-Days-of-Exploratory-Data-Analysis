@@ -21,6 +21,14 @@ This repository contains 7 notebooks about exploratory data analysis.
 
 
 ## Content
+
+### Project 1 : Super-Store Analysis
+
+* Data : https://www.kaggle.com/bravehart101/sample-supermarket-dataset
+
+### Project 2 : Crypto Analysis
+
+* Data : 
  
 ### Notebook 1 :  2021 Olympics in Tokyo
 
